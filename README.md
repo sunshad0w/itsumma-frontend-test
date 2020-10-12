@@ -38,7 +38,7 @@ Response
   collapsed_photo string
   uncollapsed_photo string
   description string
-  vote string
+  vote integer
 }
 ```
 
@@ -57,6 +57,6 @@ Response
   collapsed_photo string
   uncollapsed_photo string
   description string
-  vote string
+  vote integer
 }
 ```
